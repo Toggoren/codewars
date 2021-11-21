@@ -22,4 +22,6 @@
     [``go to description``](https://www.codewars.com/kata/5545f109004975ea66000086) [``go to solution``](javascript/kyu_8/is-n-divisible-by-x-and-y.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Invert values``  
     [``go to description``](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) [``go to solution``](javascript/kyu_8/invert-values.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Abbreviate a Two Word Name``  
+    [``go to description``](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) [``go to solution``](javascript/kyu_8/abbreviate-a-two-word-name.js) 
 
