@@ -26,4 +26,6 @@
     [``go to description``](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) [``go to solution``](javascript/kyu_8/abbreviate-a-two-word-name.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Count of positives / sum of negatives``  
     [``go to description``](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) [``go to solution``](javascript/kyu_8/count-of-positives-slash-sum-of-negatives.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Convert number to reversed array of digits``  
+    [``go to description``](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) [``go to solution``](javascript/kyu_8/convert-number-to-reversed-array-of-digits.js) 
 
