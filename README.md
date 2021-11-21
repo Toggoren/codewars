@@ -20,4 +20,6 @@
     [``go to description``](https://www.codewars.com/kata/582cb0224e56e068d800003c) [``go to solution``](javascript/kyu_8/keep-hydrated-1.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Is n divisible by x and y?``  
     [``go to description``](https://www.codewars.com/kata/5545f109004975ea66000086) [``go to solution``](javascript/kyu_8/is-n-divisible-by-x-and-y.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Invert values``  
+    [``go to description``](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) [``go to solution``](javascript/kyu_8/invert-values.js) 
 
