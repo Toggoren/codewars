@@ -24,4 +24,6 @@
     [``go to description``](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) [``go to solution``](javascript/kyu_8/invert-values.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Abbreviate a Two Word Name``  
     [``go to description``](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) [``go to solution``](javascript/kyu_8/abbreviate-a-two-word-name.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Count of positives / sum of negatives``  
+    [``go to description``](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) [``go to solution``](javascript/kyu_8/count-of-positives-slash-sum-of-negatives.js) 
 
