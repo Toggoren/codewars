@@ -14,4 +14,6 @@
     [``go to description``](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) [``go to solution``](javascript/kyu_8/a-needle-in-the-haystack.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Square(n) Sum``  
     [``go to description``](https://www.codewars.com/kata/515e271a311df0350d00000f) [``go to solution``](javascript/kyu_8/square-n-sum.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Regular Ball Super Ball``  
+    [``go to description``](https://www.codewars.com/kata/53f0f358b9cb376eca001079) [``go to solution``](javascript/kyu_8/regular-ball-super-ball.js) 
 
