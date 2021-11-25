@@ -36,4 +36,6 @@
     [``go to description``](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) [``go to solution``](php/kyu_8/even-or-odd.php) 
 * rank: ````8 kyu```` language: ``PHP`` task name: ``Sum of positive``  
     [``go to description``](https://www.codewars.com/kata/5715eaedb436cf5606000381) [``go to solution``](php/kyu_8/sum-of-positive.php) 
+* rank: ````8 kyu```` language: ``PHP`` task name: ``Return Negative``  
+    [``go to description``](https://www.codewars.com/kata/55685cd7ad70877c23000102) [``go to solution``](php/kyu_8/return-negative.php) 
 
