@@ -38,4 +38,6 @@
     [``go to description``](https://www.codewars.com/kata/5715eaedb436cf5606000381) [``go to solution``](php/kyu_8/sum-of-positive.php) 
 * rank: ````8 kyu```` language: ``PHP`` task name: ``Return Negative``  
     [``go to description``](https://www.codewars.com/kata/55685cd7ad70877c23000102) [``go to solution``](php/kyu_8/return-negative.php) 
+* rank: ````8 kyu```` language: ``PHP`` task name: ``Opposite number``  
+    [``go to description``](https://www.codewars.com/kata/56dec885c54a926dcd001095) [``go to solution``](php/kyu_8/opposite-number.php) 
 
