@@ -42,4 +42,6 @@
     [``go to description``](https://www.codewars.com/kata/56dec885c54a926dcd001095) [``go to solution``](php/kyu_8/opposite-number.php) 
 * rank: ````8 kyu```` language: ``PHP`` task name: ``Remove First and Last Character``  
     [``go to description``](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) [``go to solution``](php/kyu_8/remove-first-and-last-character.php) 
+* rank: ````8 kyu```` language: ``PHP`` task name: ``Convert boolean values to strings 'Yes' or 'No'.``  
+    [``go to description``](https://www.codewars.com/kata/53369039d7ab3ac506000467) [``go to solution``](php/kyu_8/convert-boolean-values-to-strings-yes-or-no.php) 
 
