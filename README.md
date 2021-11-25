@@ -44,4 +44,6 @@
     [``go to description``](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) [``go to solution``](php/kyu_8/remove-first-and-last-character.php) 
 * rank: ````8 kyu```` language: ``PHP`` task name: ``Convert boolean values to strings 'Yes' or 'No'.``  
     [``go to description``](https://www.codewars.com/kata/53369039d7ab3ac506000467) [``go to solution``](php/kyu_8/convert-boolean-values-to-strings-yes-or-no.php) 
+* rank: ````8 kyu```` language: ``PHP`` task name: ``String repeat``  
+    [``go to description``](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) [``go to solution``](php/kyu_8/string-repeat.php) 
 
