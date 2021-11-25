@@ -28,4 +28,6 @@
     [``go to description``](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) [``go to solution``](javascript/kyu_8/count-of-positives-slash-sum-of-negatives.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Convert number to reversed array of digits``  
     [``go to description``](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) [``go to solution``](javascript/kyu_8/convert-number-to-reversed-array-of-digits.js) 
+* rank: ````8 kyu```` language: ``PHP`` task name: ``Grasshopper - Summation``  
+    [``go to description``](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) [``go to solution``](php/kyu_8/grasshopper-summation.php) 
 
