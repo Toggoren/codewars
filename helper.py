@@ -6,6 +6,8 @@ import enum
 import pathlib
 import requests
 from urllib.parse import urlparse
+import os
+import sys
 
 
 @enum.unique
@@ -205,10 +207,29 @@ def file_template_based_by_language(language: Language) -> str:
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('url')
+
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument('-n', '--new-task', action='store')
+    group.add_argument('-d', '--done', action='store_true')
+
     args = parser.parse_args()
 
-    url = args.url
+    if args.done:
+        with open(file='README.md', mode='r', encoding='utf-8') as fh_in:
+            data = fh_in.read().splitlines(keepends=True)
+        tmp_str = ''
+        for line in reversed(data):
+            if line.startswith('* rank'):
+                tmp_str = line
+                break
+        assert tmp_str != '', f'{tmp_str=}'
+        _, _, rank, _, _, language, _, task_name, _ = tmp_str.strip().split('``')
+        os.system(f'git add .')
+        os.system(f'git commitutc -m "Add {language}::{rank}::{task_name}"')
+        os.system(f'git push origin master')
+        exit(0)
+
+    url = args.new_task
 
     o = urlparse(url)
     assert o.netloc == 'www.codewars.com' or o.netloc == 'codewars.com', f'{o.netloc=}'
