@@ -48,4 +48,6 @@
     [``go to description``](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) [``go to solution``](php/kyu_8/string-repeat.php) 
 * rank: ````8 kyu```` language: ``PHP`` task name: ``Reversed Strings``  
     [``go to description``](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) [``go to solution``](php/kyu_8/reversed-strings.php) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Reverse a Number``  
+    [``go to description``](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5) [``go to solution``](javascript/kyu_7/reverse-a-number.js) 
 
