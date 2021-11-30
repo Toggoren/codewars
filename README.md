@@ -52,4 +52,6 @@
     [``go to description``](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5) [``go to solution``](javascript/kyu_7/reverse-a-number.js) 
 * rank: ````8 kyu```` language: ``Python`` task name: ``I love you,  a little ,  a lot,  passionately ... not at all``  
     [``go to description``](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296) [``go to solution``](python/kyu_8/i-love-you-a-little-a-lot-passionately-dot-dot-dot-not-at-all.py) 
+* rank: ````8 kyu```` language: ``Python`` task name: ``Convert a Boolean to a String``  
+    [``go to description``](https://www.codewars.com/kata/551b4501ac0447318f0009cd) [``go to solution``](python/kyu_8/convert-a-boolean-to-a-string.py) 
 
