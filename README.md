@@ -62,4 +62,6 @@
     [``go to description``](https://www.codewars.com/kata/59c287b16bddd291c700009a) [``go to solution``](python/kyu_8/for-twins-2-math-operations.py) 
 * rank: ````8 kyu```` language: ``Python`` task name: ``What's the real floor?``  
     [``go to description``](https://www.codewars.com/kata/574b3b1599d8f897470018f6) [``go to solution``](python/kyu_8/whats-the-real-floor.py) 
+* rank: ````8 kyu```` language: ``Python`` task name: ``Subtract the Sum``  
+    [``go to description``](https://www.codewars.com/kata/56c5847f27be2c3db20009c3) [``go to solution``](python/kyu_8/subtract-the-sum.py) 
 
