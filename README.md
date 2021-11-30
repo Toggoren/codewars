@@ -68,4 +68,6 @@
     [``go to description``](https://www.codewars.com/kata/572b6b2772a38bc1e700007a) [``go to solution``](python/kyu_8/ascii-total.py) 
 * rank: ````8 kyu```` language: ``Python`` task name: ``Drink about``  
     [``go to description``](https://www.codewars.com/kata/56170e844da7c6f647000063) [``go to solution``](python/kyu_8/drink-about.py) 
+* rank: ````8 kyu```` language: ``Python`` task name: ``Switch it Up!``  
+    [``go to description``](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) [``go to solution``](python/kyu_8/switch-it-up.py) 
 
