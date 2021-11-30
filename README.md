@@ -50,4 +50,6 @@
     [``go to description``](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) [``go to solution``](php/kyu_8/reversed-strings.php) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Reverse a Number``  
     [``go to description``](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5) [``go to solution``](javascript/kyu_7/reverse-a-number.js) 
+* rank: ````8 kyu```` language: ``Python`` task name: ``I love you,  a little ,  a lot,  passionately ... not at all``  
+    [``go to description``](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296) [``go to solution``](python/kyu_8/i-love-you-a-little-a-lot-passionately-dot-dot-dot-not-at-all.py) 
 
