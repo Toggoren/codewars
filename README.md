@@ -56,4 +56,6 @@
     [``go to description``](https://www.codewars.com/kata/551b4501ac0447318f0009cd) [``go to solution``](python/kyu_8/convert-a-boolean-to-a-string.py) 
 * rank: ````8 kyu```` language: ``Python`` task name: ``DNA to RNA Conversion``  
     [``go to description``](https://www.codewars.com/kata/5556282156230d0e5e000089) [``go to solution``](python/kyu_8/dna-to-rna-conversion.py) 
+* rank: ````8 kyu```` language: ``Python`` task name: ``Convert a String to a Number!``  
+    [``go to description``](https://www.codewars.com/kata/544675c6f971f7399a000e79) [``go to solution``](python/kyu_8/convert-a-string-to-a-number.py) 
 
