@@ -58,4 +58,6 @@
     [``go to description``](https://www.codewars.com/kata/5556282156230d0e5e000089) [``go to solution``](python/kyu_8/dna-to-rna-conversion.py) 
 * rank: ````8 kyu```` language: ``Python`` task name: ``Convert a String to a Number!``  
     [``go to description``](https://www.codewars.com/kata/544675c6f971f7399a000e79) [``go to solution``](python/kyu_8/convert-a-string-to-a-number.py) 
+* rank: ````8 kyu```` language: ``Python`` task name: ``For Twins: 2. Math operations``  
+    [``go to description``](https://www.codewars.com/kata/59c287b16bddd291c700009a) [``go to solution``](python/kyu_8/for-twins-2-math-operations.py) 
 
