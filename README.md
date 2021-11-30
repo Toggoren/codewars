@@ -60,4 +60,6 @@
     [``go to description``](https://www.codewars.com/kata/544675c6f971f7399a000e79) [``go to solution``](python/kyu_8/convert-a-string-to-a-number.py) 
 * rank: ````8 kyu```` language: ``Python`` task name: ``For Twins: 2. Math operations``  
     [``go to description``](https://www.codewars.com/kata/59c287b16bddd291c700009a) [``go to solution``](python/kyu_8/for-twins-2-math-operations.py) 
+* rank: ````8 kyu```` language: ``Python`` task name: ``What's the real floor?``  
+    [``go to description``](https://www.codewars.com/kata/574b3b1599d8f897470018f6) [``go to solution``](python/kyu_8/whats-the-real-floor.py) 
 
