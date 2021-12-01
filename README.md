@@ -72,4 +72,6 @@
     [``go to description``](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) [``go to solution``](python/kyu_8/switch-it-up.py) 
 * rank: ````7 kyu```` language: ``Python`` task name: ``Vowel Count``  
     [``go to description``](https://www.codewars.com/kata/54ff3102c1bad923760001f3) [``go to solution``](python/kyu_7/vowel-count.py) 
+* rank: ````7 kyu```` language: ``Python`` task name: ``Disemvowel Trolls``  
+    [``go to description``](https://www.codewars.com/kata/52fba66badcd10859f00097e) [``go to solution``](python/kyu_7/disemvowel-trolls.py) 
 
