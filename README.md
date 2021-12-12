@@ -88,4 +88,6 @@
     [``go to description``](https://www.codewars.com/kata/54ba84be607a92aa900000f1) [``go to solution``](python/kyu_7/isograms.py) 
 * rank: ````7 kyu```` language: ``Python`` task name: ``You're a square!``  
     [``go to description``](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) [``go to solution``](python/kyu_7/youre-a-square.py) 
+* rank: ````7 kyu```` language: ``Python`` task name: ``Get the Middle Character``  
+    [``go to description``](https://www.codewars.com/kata/56747fd5cb988479af000028) [``go to solution``](python/kyu_7/get-the-middle-character.py) 
 
