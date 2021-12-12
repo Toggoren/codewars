@@ -80,4 +80,6 @@
     [``go to description``](https://www.codewars.com/kata/554b4ac871d6813a03000035) [``go to solution``](python/kyu_7/highest-and-lowest.py) 
 * rank: ````7 kyu```` language: ``Python`` task name: ``Mumbling``  
     [``go to description``](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) [``go to solution``](python/kyu_7/mumbling.py) 
+* rank: ````7 kyu```` language: ``Python`` task name: ``Descending Order``  
+    [``go to description``](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) [``go to solution``](python/kyu_7/descending-order.py) 
 
