@@ -82,4 +82,6 @@
     [``go to description``](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039) [``go to solution``](python/kyu_7/mumbling.py) 
 * rank: ````7 kyu```` language: ``Python`` task name: ``Descending Order``  
     [``go to description``](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) [``go to solution``](python/kyu_7/descending-order.py) 
+* rank: ````7 kyu```` language: ``Python`` task name: ``Exes and Ohs``  
+    [``go to description``](https://www.codewars.com/kata/55908aad6620c066bc00002a) [``go to solution``](python/kyu_7/exes-and-ohs.py) 
 
