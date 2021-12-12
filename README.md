@@ -98,4 +98,6 @@
     [``go to description``](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) [``go to solution``](go/kyu_8/remove-string-spaces.go) 
 * rank: ````8 kyu```` language: ``Go`` task name: ``Counting sheep...``  
     [``go to description``](https://www.codewars.com/kata/54edbc7200b811e956000556) [``go to solution``](go/kyu_8/counting-sheep-dot-dot-dot.go) 
+* rank: ````8 kyu```` language: ``Go`` task name: ``Reversed sequence ``  
+    [``go to description``](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) [``go to solution``](go/kyu_8/reversed-sequence.go) 
 
