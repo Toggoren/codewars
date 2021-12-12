@@ -102,4 +102,6 @@
     [``go to description``](https://www.codewars.com/kata/5a00e05cc374cb34d100000d) [``go to solution``](go/kyu_8/reversed-sequence.go) 
 * rank: ````8 kyu```` language: ``Go`` task name: ``Jenny's secret message``  
     [``go to description``](https://www.codewars.com/kata/55225023e1be1ec8bc000390) [``go to solution``](go/kyu_8/jennys-secret-message.go) 
+* rank: ````8 kyu```` language: ``Go`` task name: ``Century From Year``  
+    [``go to description``](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) [``go to solution``](go/kyu_8/century-from-year.go) 
 
