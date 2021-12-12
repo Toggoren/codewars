@@ -90,4 +90,6 @@
     [``go to description``](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) [``go to solution``](python/kyu_7/youre-a-square.py) 
 * rank: ````7 kyu```` language: ``Python`` task name: ``Get the Middle Character``  
     [``go to description``](https://www.codewars.com/kata/56747fd5cb988479af000028) [``go to solution``](python/kyu_7/get-the-middle-character.py) 
+* rank: ````8 kyu```` language: ``Go`` task name: ``Function 1 - hello world``  
+    [``go to description``](https://www.codewars.com/kata/523b4ff7adca849afe000035) [``go to solution``](go/kyu_8/function-1-hello-world.go) 
 
