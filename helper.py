@@ -3,11 +3,11 @@
 
 import argparse
 import enum
-import pathlib
-import requests
-from urllib.parse import urlparse
 import os
-import sys
+import pathlib
+from urllib.parse import urlparse
+
+import requests
 
 
 @enum.unique
@@ -144,6 +144,7 @@ def language2file_ext(language: Language) -> str:
         Language.JavaScript: '.js',
         Language.PHP: '.php',
         Language.Python: '.py',
+        Language.Go: '.go',
     }.get(language, not_implemented_language)
 
     return result if isinstance(result, str) else result()
@@ -196,12 +197,20 @@ def file_template_based_by_language(language: Language) -> str:
                '// START HERE\n' \
                '\n'
 
+    def go_template():
+        return '// Package kata {text}\n' \
+               'package kata\n' \
+               '\n' \
+               '// START HERE\n' \
+               '\n'
+
     return {
         Language.CoffeeScript: coffeescript_template,
         Language.Cpp: cpp_template,
         Language.JavaScript: javascript_template,
         Language.PHP: php_template,
         Language.Python: python_template,
+        Language.Go: go_template,
     }.get(language, not_implemented_language)()
 
 
