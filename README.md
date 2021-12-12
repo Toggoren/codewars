@@ -74,4 +74,6 @@
     [``go to description``](https://www.codewars.com/kata/54ff3102c1bad923760001f3) [``go to solution``](python/kyu_7/vowel-count.py) 
 * rank: ````7 kyu```` language: ``Python`` task name: ``Disemvowel Trolls``  
     [``go to description``](https://www.codewars.com/kata/52fba66badcd10859f00097e) [``go to solution``](python/kyu_7/disemvowel-trolls.py) 
+* rank: ````7 kyu```` language: ``Python`` task name: ``Square Every Digit``  
+    [``go to description``](https://www.codewars.com/kata/546e2562b03326a88e000020) [``go to solution``](python/kyu_7/square-every-digit.py) 
 
