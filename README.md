@@ -106,4 +106,6 @@
     [``go to description``](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) [``go to solution``](go/kyu_8/century-from-year.go) 
 * rank: ````8 kyu```` language: ``Go`` task name: ``Beginner Series #2 Clock``  
     [``go to description``](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) [``go to solution``](go/kyu_8/beginner-series-number-2-clock.go) 
+* rank: ````8 kyu```` language: ``Go`` task name: ``Reversed Words``  
+    [``go to description``](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) [``go to solution``](go/kyu_8/reversed-words.go) 
 
