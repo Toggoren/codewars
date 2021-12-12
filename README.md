@@ -94,4 +94,6 @@
     [``go to description``](https://www.codewars.com/kata/523b4ff7adca849afe000035) [``go to solution``](go/kyu_8/function-1-hello-world.go) 
 * rank: ````8 kyu```` language: ``Go`` task name: ``Find the smallest integer in the array``  
     [``go to description``](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) [``go to solution``](go/kyu_8/find-the-smallest-integer-in-the-array.go) 
+* rank: ````8 kyu```` language: ``Go`` task name: ``Remove String Spaces``  
+    [``go to description``](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) [``go to solution``](go/kyu_8/remove-string-spaces.go) 
 
