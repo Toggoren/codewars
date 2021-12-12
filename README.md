@@ -92,4 +92,6 @@
     [``go to description``](https://www.codewars.com/kata/56747fd5cb988479af000028) [``go to solution``](python/kyu_7/get-the-middle-character.py) 
 * rank: ````8 kyu```` language: ``Go`` task name: ``Function 1 - hello world``  
     [``go to description``](https://www.codewars.com/kata/523b4ff7adca849afe000035) [``go to solution``](go/kyu_8/function-1-hello-world.go) 
+* rank: ````8 kyu```` language: ``Go`` task name: ``Find the smallest integer in the array``  
+    [``go to description``](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) [``go to solution``](go/kyu_8/find-the-smallest-integer-in-the-array.go) 
 
