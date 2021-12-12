@@ -76,4 +76,6 @@
     [``go to description``](https://www.codewars.com/kata/52fba66badcd10859f00097e) [``go to solution``](python/kyu_7/disemvowel-trolls.py) 
 * rank: ````7 kyu```` language: ``Python`` task name: ``Square Every Digit``  
     [``go to description``](https://www.codewars.com/kata/546e2562b03326a88e000020) [``go to solution``](python/kyu_7/square-every-digit.py) 
+* rank: ````7 kyu```` language: ``Python`` task name: ``Highest and Lowest``  
+    [``go to description``](https://www.codewars.com/kata/554b4ac871d6813a03000035) [``go to solution``](python/kyu_7/highest-and-lowest.py) 
 
