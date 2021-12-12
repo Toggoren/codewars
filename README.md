@@ -86,4 +86,6 @@
     [``go to description``](https://www.codewars.com/kata/55908aad6620c066bc00002a) [``go to solution``](python/kyu_7/exes-and-ohs.py) 
 * rank: ````7 kyu```` language: ``Python`` task name: ``Isograms``  
     [``go to description``](https://www.codewars.com/kata/54ba84be607a92aa900000f1) [``go to solution``](python/kyu_7/isograms.py) 
+* rank: ````7 kyu```` language: ``Python`` task name: ``You're a square!``  
+    [``go to description``](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) [``go to solution``](python/kyu_7/youre-a-square.py) 
 
