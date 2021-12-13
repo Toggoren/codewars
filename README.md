@@ -112,4 +112,6 @@
     [``go to description``](https://www.codewars.com/kata/55a70521798b14d4750000a4) [``go to solution``](go/kyu_8/returning-strings.go) 
 * rank: ````7 kyu```` language: ``Go`` task name: ``Two to One``  
     [``go to description``](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) [``go to solution``](go/kyu_7/two-to-one.go) 
+* rank: ````7 kyu```` language: ``Go`` task name: ``Growth of a Population``  
+    [``go to description``](https://www.codewars.com/kata/563b662a59afc2b5120000c6) [``go to solution``](go/kyu_7/growth-of-a-population.go) 
 
