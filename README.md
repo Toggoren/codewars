@@ -144,4 +144,6 @@
     [``go to description``](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) [``go to solution``](javascript/kyu_8/convert-a-number-to-a-string.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Convert a String to a Number!``  
     [``go to description``](https://www.codewars.com/kata/544675c6f971f7399a000e79) [``go to solution``](javascript/kyu_8/convert-a-string-to-a-number.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Convert to Binary``  
+    [``go to description``](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) [``go to solution``](javascript/kyu_8/convert-to-binary.js) 
 
