@@ -130,4 +130,6 @@
     [``go to description``](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) [``go to solution``](go/kyu_7/shortest-word.go) 
 * rank: ````7 kyu```` language: ``Go`` task name: ``Jaden Casing Strings``  
     [``go to description``](https://www.codewars.com/kata/5390bac347d09b7da40006f6) [``go to solution``](go/kyu_7/jaden-casing-strings.go) 
+* rank: ````7 kyu```` language: ``Go`` task name: ``Count the divisors of a number``  
+    [``go to description``](https://www.codewars.com/kata/542c0f198e077084c0000c2e) [``go to solution``](go/kyu_7/count-the-divisors-of-a-number.go) 
 
