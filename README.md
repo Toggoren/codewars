@@ -148,4 +148,6 @@
     [``go to description``](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) [``go to solution``](javascript/kyu_8/convert-to-binary.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Even or Odd``  
     [``go to description``](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) [``go to solution``](javascript/kyu_8/even-or-odd.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Fake Binary``  
+    [``go to description``](https://www.codewars.com/kata/57eae65a4321032ce000002d) [``go to solution``](javascript/kyu_8/fake-binary.js) 
 
