@@ -114,4 +114,6 @@
     [``go to description``](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) [``go to solution``](go/kyu_7/two-to-one.go) 
 * rank: ````7 kyu```` language: ``Go`` task name: ``Growth of a Population``  
     [``go to description``](https://www.codewars.com/kata/563b662a59afc2b5120000c6) [``go to solution``](go/kyu_7/growth-of-a-population.go) 
+* rank: ````7 kyu```` language: ``Go`` task name: ``Printer Errors``  
+    [``go to description``](https://www.codewars.com/kata/56541980fa08ab47a0000040) [``go to solution``](go/kyu_7/printer-errors.go) 
 
