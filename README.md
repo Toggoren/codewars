@@ -118,4 +118,6 @@
     [``go to description``](https://www.codewars.com/kata/56541980fa08ab47a0000040) [``go to solution``](go/kyu_7/printer-errors.go) 
 * rank: ````7 kyu```` language: ``Go`` task name: ``Is this a triangle?``  
     [``go to description``](https://www.codewars.com/kata/56606694ec01347ce800001b) [``go to solution``](go/kyu_7/is-this-a-triangle.go) 
+* rank: ````7 kyu```` language: ``Go`` task name: ``Sum of odd numbers``  
+    [``go to description``](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) [``go to solution``](go/kyu_7/sum-of-odd-numbers.go) 
 
