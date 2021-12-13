@@ -156,4 +156,6 @@
     [``go to description``](https://www.codewars.com/kata/58fa273ca6d84c158e000052) [``go to solution``](javascript/kyu_7/number-of-decimal-digits.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Opposite number``  
     [``go to description``](https://www.codewars.com/kata/56dec885c54a926dcd001095) [``go to solution``](javascript/kyu_8/opposite-number.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Perimeter sequence``  
+    [``go to description``](https://www.codewars.com/kata/589519d1f0902e01af000054) [``go to solution``](javascript/kyu_7/perimeter-sequence.js) 
 
