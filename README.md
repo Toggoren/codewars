@@ -138,4 +138,6 @@
     [``go to description``](https://www.codewars.com/kata/5a2b703dc5e2845c0900005a) [``go to solution``](javascript/kyu_8/can-we-divide-it.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Capitalization and Mutability``  
     [``go to description``](https://www.codewars.com/kata/595970246c9b8fa0a8000086) [``go to solution``](javascript/kyu_8/capitalization-and-mutability.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Century From Year``  
+    [``go to description``](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) [``go to solution``](javascript/kyu_8/century-from-year.js) 
 
