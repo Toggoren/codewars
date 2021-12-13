@@ -124,4 +124,6 @@
     [``go to description``](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) [``go to solution``](go/kyu_7/string-ends-with.go) 
 * rank: ````7 kyu```` language: ``Go`` task name: ``Reverse words``  
     [``go to description``](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) [``go to solution``](go/kyu_7/reverse-words.go) 
+* rank: ````7 kyu```` language: ``Go`` task name: ``Breaking chocolate problem``  
+    [``go to description``](https://www.codewars.com/kata/534ea96ebb17181947000ada) [``go to solution``](go/kyu_7/breaking-chocolate-problem.go) 
 
