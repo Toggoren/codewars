@@ -154,4 +154,6 @@
     [``go to description``](https://www.codewars.com/kata/5887a6fe0cfe64850800161c) [``go to solution``](javascript/kyu_7/largest-square-inside-a-circle.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Number of Decimal Digits``  
     [``go to description``](https://www.codewars.com/kata/58fa273ca6d84c158e000052) [``go to solution``](javascript/kyu_7/number-of-decimal-digits.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Opposite number``  
+    [``go to description``](https://www.codewars.com/kata/56dec885c54a926dcd001095) [``go to solution``](javascript/kyu_8/opposite-number.js) 
 
