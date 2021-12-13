@@ -132,4 +132,6 @@
     [``go to description``](https://www.codewars.com/kata/5390bac347d09b7da40006f6) [``go to solution``](go/kyu_7/jaden-casing-strings.go) 
 * rank: ````7 kyu```` language: ``Go`` task name: ``Count the divisors of a number``  
     [``go to description``](https://www.codewars.com/kata/542c0f198e077084c0000c2e) [``go to solution``](go/kyu_7/count-the-divisors-of-a-number.go) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Function 1 - hello world``  
+    [``go to description``](https://www.codewars.com/kata/523b4ff7adca849afe000035) [``go to solution``](javascript/kyu_8/function-1-hello-world.js) 
 
