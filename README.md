@@ -120,4 +120,6 @@
     [``go to description``](https://www.codewars.com/kata/56606694ec01347ce800001b) [``go to solution``](go/kyu_7/is-this-a-triangle.go) 
 * rank: ````7 kyu```` language: ``Go`` task name: ``Sum of odd numbers``  
     [``go to description``](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) [``go to solution``](go/kyu_7/sum-of-odd-numbers.go) 
+* rank: ````7 kyu```` language: ``Go`` task name: ``String ends with?``  
+    [``go to description``](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) [``go to solution``](go/kyu_7/string-ends-with.go) 
 
