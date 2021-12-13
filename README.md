@@ -150,4 +150,6 @@
     [``go to description``](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) [``go to solution``](javascript/kyu_8/even-or-odd.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Fake Binary``  
     [``go to description``](https://www.codewars.com/kata/57eae65a4321032ce000002d) [``go to solution``](javascript/kyu_8/fake-binary.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Largest Square Inside A Circle``  
+    [``go to description``](https://www.codewars.com/kata/5887a6fe0cfe64850800161c) [``go to solution``](javascript/kyu_7/largest-square-inside-a-circle.js) 
 
