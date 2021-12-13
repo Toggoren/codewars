@@ -122,4 +122,6 @@
     [``go to description``](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) [``go to solution``](go/kyu_7/sum-of-odd-numbers.go) 
 * rank: ````7 kyu```` language: ``Go`` task name: ``String ends with?``  
     [``go to description``](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) [``go to solution``](go/kyu_7/string-ends-with.go) 
+* rank: ````7 kyu```` language: ``Go`` task name: ``Reverse words``  
+    [``go to description``](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) [``go to solution``](go/kyu_7/reverse-words.go) 
 
