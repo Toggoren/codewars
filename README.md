@@ -146,4 +146,6 @@
     [``go to description``](https://www.codewars.com/kata/544675c6f971f7399a000e79) [``go to solution``](javascript/kyu_8/convert-a-string-to-a-number.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Convert to Binary``  
     [``go to description``](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) [``go to solution``](javascript/kyu_8/convert-to-binary.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Even or Odd``  
+    [``go to description``](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) [``go to solution``](javascript/kyu_8/even-or-odd.js) 
 
