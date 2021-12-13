@@ -158,4 +158,6 @@
     [``go to description``](https://www.codewars.com/kata/56dec885c54a926dcd001095) [``go to solution``](javascript/kyu_8/opposite-number.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Perimeter sequence``  
     [``go to description``](https://www.codewars.com/kata/589519d1f0902e01af000054) [``go to solution``](javascript/kyu_7/perimeter-sequence.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Remove First and Last Character``  
+    [``go to description``](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) [``go to solution``](javascript/kyu_8/remove-first-and-last-character.js) 
 
