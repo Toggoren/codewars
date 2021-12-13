@@ -140,4 +140,6 @@
     [``go to description``](https://www.codewars.com/kata/595970246c9b8fa0a8000086) [``go to solution``](javascript/kyu_8/capitalization-and-mutability.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Century From Year``  
     [``go to description``](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) [``go to solution``](javascript/kyu_8/century-from-year.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Convert a Number to a String!``  
+    [``go to description``](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) [``go to solution``](javascript/kyu_8/convert-a-number-to-a-string.js) 
 
