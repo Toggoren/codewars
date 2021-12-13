@@ -116,4 +116,6 @@
     [``go to description``](https://www.codewars.com/kata/563b662a59afc2b5120000c6) [``go to solution``](go/kyu_7/growth-of-a-population.go) 
 * rank: ````7 kyu```` language: ``Go`` task name: ``Printer Errors``  
     [``go to description``](https://www.codewars.com/kata/56541980fa08ab47a0000040) [``go to solution``](go/kyu_7/printer-errors.go) 
+* rank: ````7 kyu```` language: ``Go`` task name: ``Is this a triangle?``  
+    [``go to description``](https://www.codewars.com/kata/56606694ec01347ce800001b) [``go to solution``](go/kyu_7/is-this-a-triangle.go) 
 
