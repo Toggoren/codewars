@@ -126,4 +126,6 @@
     [``go to description``](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4) [``go to solution``](go/kyu_7/reverse-words.go) 
 * rank: ````7 kyu```` language: ``Go`` task name: ``Breaking chocolate problem``  
     [``go to description``](https://www.codewars.com/kata/534ea96ebb17181947000ada) [``go to solution``](go/kyu_7/breaking-chocolate-problem.go) 
+* rank: ````7 kyu```` language: ``Go`` task name: ``Shortest Word``  
+    [``go to description``](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9) [``go to solution``](go/kyu_7/shortest-word.go) 
 
