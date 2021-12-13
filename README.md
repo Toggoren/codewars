@@ -110,4 +110,6 @@
     [``go to description``](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) [``go to solution``](go/kyu_8/reversed-words.go) 
 * rank: ````8 kyu```` language: ``Go`` task name: ``Returning Strings``  
     [``go to description``](https://www.codewars.com/kata/55a70521798b14d4750000a4) [``go to solution``](go/kyu_8/returning-strings.go) 
+* rank: ````7 kyu```` language: ``Go`` task name: ``Two to One``  
+    [``go to description``](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) [``go to solution``](go/kyu_7/two-to-one.go) 
 
