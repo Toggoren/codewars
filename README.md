@@ -190,4 +190,6 @@
     [``go to description``](https://www.codewars.com/kata/5b047875de4c7f9af800011b) [``go to solution``](javascript/kyu_7/string-reordering.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Simple multiplication``  
     [``go to description``](https://www.codewars.com/kata/583710ccaa6717322c000105) [``go to solution``](javascript/kyu_8/simple-multiplication.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``String repeat``  
+    [``go to description``](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) [``go to solution``](javascript/kyu_8/string-repeat.js) 
 
