@@ -184,4 +184,6 @@
     [``go to description``](https://www.codewars.com/kata/586e4c61aa0428f04e000069) [``go to solution``](javascript/kyu_7/get-decimal-part-of-the-given-number.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Who likes it?``  
     [``go to description``](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) [``go to solution``](javascript/kyu_6/who-likes-it.js) 
+* rank: ````5 kyu```` language: ``JavaScript`` task name: ``RGB To Hex Conversion``  
+    [``go to description``](https://www.codewars.com/kata/513e08acc600c94f01000001) [``go to solution``](javascript/kyu_5/rgb-to-hex-conversion.js) 
 
