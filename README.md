@@ -176,4 +176,6 @@
     [``go to description``](https://www.codewars.com/kata/56d6b7e43e8186c228000637) [``go to solution``](javascript/kyu_7/colour-association.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Combine objects``  
     [``go to description``](https://www.codewars.com/kata/56bd9e4b0d0b64eaf5000819) [``go to solution``](javascript/kyu_7/combine-objects.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Count the Digit``  
+    [``go to description``](https://www.codewars.com/kata/566fc12495810954b1000030) [``go to solution``](javascript/kyu_7/count-the-digit.js) 
 
