@@ -186,4 +186,6 @@
     [``go to description``](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) [``go to solution``](javascript/kyu_6/who-likes-it.js) 
 * rank: ````5 kyu```` language: ``JavaScript`` task name: ``RGB To Hex Conversion``  
     [``go to description``](https://www.codewars.com/kata/513e08acc600c94f01000001) [``go to solution``](javascript/kyu_5/rgb-to-hex-conversion.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``String Reordering``  
+    [``go to description``](https://www.codewars.com/kata/5b047875de4c7f9af800011b) [``go to solution``](javascript/kyu_7/string-reordering.js) 
 
