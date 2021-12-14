@@ -170,4 +170,6 @@
     [``go to description``](https://www.codewars.com/kata/5899642f6e1b25935d000161) [``go to solution``](javascript/kyu_8/merge-two-sorted-arrays-into-one.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``16+18=214``  
     [``go to description``](https://www.codewars.com/kata/5effa412233ac3002a9e471d) [``go to solution``](javascript/kyu_7/16-plus-18-equals-214.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Add property to every object in array ``  
+    [``go to description``](https://www.codewars.com/kata/54e8c3e89e2ae6f4900005a1) [``go to solution``](javascript/kyu_7/add-property-to-every-object-in-array.js) 
 
