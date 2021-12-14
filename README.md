@@ -180,4 +180,6 @@
     [``go to description``](https://www.codewars.com/kata/566fc12495810954b1000030) [``go to solution``](javascript/kyu_7/count-the-digit.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Find the missing element between two arrays``  
     [``go to description``](https://www.codewars.com/kata/5a5915b8d39ec5aa18000030) [``go to solution``](javascript/kyu_7/find-the-missing-element-between-two-arrays.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Get decimal part of the given number``  
+    [``go to description``](https://www.codewars.com/kata/586e4c61aa0428f04e000069) [``go to solution``](javascript/kyu_7/get-decimal-part-of-the-given-number.js) 
 
