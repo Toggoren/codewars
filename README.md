@@ -172,4 +172,6 @@
     [``go to description``](https://www.codewars.com/kata/5effa412233ac3002a9e471d) [``go to solution``](javascript/kyu_7/16-plus-18-equals-214.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Add property to every object in array ``  
     [``go to description``](https://www.codewars.com/kata/54e8c3e89e2ae6f4900005a1) [``go to solution``](javascript/kyu_7/add-property-to-every-object-in-array.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Colour Association``  
+    [``go to description``](https://www.codewars.com/kata/56d6b7e43e8186c228000637) [``go to solution``](javascript/kyu_7/colour-association.js) 
 
