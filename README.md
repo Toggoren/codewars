@@ -188,4 +188,6 @@
     [``go to description``](https://www.codewars.com/kata/513e08acc600c94f01000001) [``go to solution``](javascript/kyu_5/rgb-to-hex-conversion.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``String Reordering``  
     [``go to description``](https://www.codewars.com/kata/5b047875de4c7f9af800011b) [``go to solution``](javascript/kyu_7/string-reordering.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Simple multiplication``  
+    [``go to description``](https://www.codewars.com/kata/583710ccaa6717322c000105) [``go to solution``](javascript/kyu_8/simple-multiplication.js) 
 
