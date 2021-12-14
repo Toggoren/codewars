@@ -162,4 +162,6 @@
     [``go to description``](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) [``go to solution``](javascript/kyu_8/remove-first-and-last-character.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Remove String Spaces``  
     [``go to description``](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) [``go to solution``](javascript/kyu_8/remove-string-spaces.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``String ends with?``  
+    [``go to description``](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) [``go to solution``](javascript/kyu_7/string-ends-with.js) 
 
