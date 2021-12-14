@@ -166,4 +166,6 @@
     [``go to description``](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) [``go to solution``](javascript/kyu_7/string-ends-with.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Take an Arrow to the knee, Functionally``  
     [``go to description``](https://www.codewars.com/kata/559f3123e66a7204f000009f) [``go to solution``](javascript/kyu_8/take-an-arrow-to-the-knee-functionally.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Merge two sorted arrays into one``  
+    [``go to description``](https://www.codewars.com/kata/5899642f6e1b25935d000161) [``go to solution``](javascript/kyu_8/merge-two-sorted-arrays-into-one.js) 
 
