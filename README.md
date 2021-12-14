@@ -164,4 +164,6 @@
     [``go to description``](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) [``go to solution``](javascript/kyu_8/remove-string-spaces.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``String ends with?``  
     [``go to description``](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) [``go to solution``](javascript/kyu_7/string-ends-with.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Take an Arrow to the knee, Functionally``  
+    [``go to description``](https://www.codewars.com/kata/559f3123e66a7204f000009f) [``go to solution``](javascript/kyu_8/take-an-arrow-to-the-knee-functionally.js) 
 
