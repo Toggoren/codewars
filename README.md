@@ -192,4 +192,6 @@
     [``go to description``](https://www.codewars.com/kata/583710ccaa6717322c000105) [``go to solution``](javascript/kyu_8/simple-multiplication.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``String repeat``  
     [``go to description``](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) [``go to solution``](javascript/kyu_8/string-repeat.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Switch it Up!``  
+    [``go to description``](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031) [``go to solution``](javascript/kyu_8/switch-it-up.js) 
 
