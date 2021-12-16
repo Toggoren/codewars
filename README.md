@@ -210,4 +210,6 @@
     [``go to description``](https://www.codewars.com/kata/540de1f0716ab384b4000828) [``go to solution``](javascript/kyu_7/unpacking-arguments.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Vowel one``  
     [``go to description``](https://www.codewars.com/kata/580751a40b5a777a200000a1) [``go to solution``](javascript/kyu_7/vowel-one.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Who is the killer?``  
+    [``go to description``](https://www.codewars.com/kata/5f709c8fb0d88300292a7a9d) [``go to solution``](javascript/kyu_7/who-is-the-killer-1.js) 
 
