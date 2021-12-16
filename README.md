@@ -208,4 +208,6 @@
     [``go to description``](https://www.codewars.com/kata/559f35bde66a7250f60000c9) [``go to solution``](javascript/kyu_7/sum-with-arrows.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Unpacking Arguments``  
     [``go to description``](https://www.codewars.com/kata/540de1f0716ab384b4000828) [``go to solution``](javascript/kyu_7/unpacking-arguments.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Vowel one``  
+    [``go to description``](https://www.codewars.com/kata/580751a40b5a777a200000a1) [``go to solution``](javascript/kyu_7/vowel-one.js) 
 
