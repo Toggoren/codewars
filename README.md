@@ -198,4 +198,6 @@
     [``go to description``](https://www.codewars.com/kata/5aa1bcda373c2eb596000112) [``go to solution``](javascript/kyu_7/maximum-triplet-sum-array-series-number-7.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``My Languages``  
     [``go to description``](https://www.codewars.com/kata/5b16490986b6d336c900007d) [``go to solution``](javascript/kyu_7/mylanguages.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Nickname Generator``  
+    [``go to description``](https://www.codewars.com/kata/593b1909e68ff627c9000186) [``go to solution``](javascript/kyu_7/nickname-generator.js) 
 
