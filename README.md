@@ -228,4 +228,6 @@
     [``go to description``](https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba) [``go to solution``](javascript/kyu_8/type-of-sum.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Will you make it?``  
     [``go to description``](https://www.codewars.com/kata/5861d28f124b35723e00005e) [``go to solution``](javascript/kyu_8/will-you-make-it.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Transportation on vacation ``  
+    [``go to description``](https://www.codewars.com/kata/568d0dd208ee69389d000016) [``go to solution``](javascript/kyu_8/transportation-on-vacation.js) 
 
