@@ -216,4 +216,6 @@
     [``go to description``](https://www.codewars.com/kata/569d488d61b812a0f7000015) [``go to solution``](javascript/kyu_6/data-reverse.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Count strings in objects``  
     [``go to description``](https://www.codewars.com/kata/565b3542af398bfb50000003) [``go to solution``](javascript/kyu_7/count-strings-in-objects.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Bingo Card``  
+    [``go to description``](https://www.codewars.com/kata/566d5e2e57d8fae53c00000c) [``go to solution``](javascript/kyu_6/bingo-card.js) 
 
