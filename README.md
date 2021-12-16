@@ -224,4 +224,6 @@
     [``go to description``](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) [``go to solution``](javascript/kyu_8/students-final-grade.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Thinkful - Logic Drills: Traffic light``  
     [``go to description``](https://www.codewars.com/kata/58649884a1659ed6cb000072) [``go to solution``](javascript/kyu_8/thinkful-logic-drills-traffic-light.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Type of sum``  
+    [``go to description``](https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba) [``go to solution``](javascript/kyu_8/type-of-sum.js) 
 
