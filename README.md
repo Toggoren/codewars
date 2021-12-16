@@ -222,4 +222,6 @@
     [``go to description``](https://www.codewars.com/kata/526571aae218b8ee490006f4) [``go to solution``](javascript/kyu_6/bit-counting.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Student's Final Grade``  
     [``go to description``](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) [``go to solution``](javascript/kyu_8/students-final-grade.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Thinkful - Logic Drills: Traffic light``  
+    [``go to description``](https://www.codewars.com/kata/58649884a1659ed6cb000072) [``go to solution``](javascript/kyu_8/thinkful-logic-drills-traffic-light.js) 
 
