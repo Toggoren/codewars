@@ -220,4 +220,6 @@
     [``go to description``](https://www.codewars.com/kata/566d5e2e57d8fae53c00000c) [``go to solution``](javascript/kyu_6/bingo-card.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Bit Counting``  
     [``go to description``](https://www.codewars.com/kata/526571aae218b8ee490006f4) [``go to solution``](javascript/kyu_6/bit-counting.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Student's Final Grade``  
+    [``go to description``](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) [``go to solution``](javascript/kyu_8/students-final-grade.js) 
 
