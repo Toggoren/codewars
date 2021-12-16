@@ -218,4 +218,6 @@
     [``go to description``](https://www.codewars.com/kata/565b3542af398bfb50000003) [``go to solution``](javascript/kyu_7/count-strings-in-objects.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Bingo Card``  
     [``go to description``](https://www.codewars.com/kata/566d5e2e57d8fae53c00000c) [``go to solution``](javascript/kyu_6/bingo-card.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Bit Counting``  
+    [``go to description``](https://www.codewars.com/kata/526571aae218b8ee490006f4) [``go to solution``](javascript/kyu_6/bit-counting.js) 
 
