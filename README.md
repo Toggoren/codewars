@@ -234,4 +234,6 @@
     [``go to description``](https://www.codewars.com/kata/57f625992f4d53c24200070e) [``go to solution``](javascript/kyu_6/lottery-ticket.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Third Angle of a Triangle``  
     [``go to description``](https://www.codewars.com/kata/5a023c426975981341000014) [``go to solution``](javascript/kyu_8/third-angle-of-a-triangle.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Is a number prime?``  
+    [``go to description``](https://www.codewars.com/kata/5262119038c0985a5b00029f) [``go to solution``](javascript/kyu_6/is-a-number-prime.js) 
 
