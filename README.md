@@ -230,4 +230,6 @@
     [``go to description``](https://www.codewars.com/kata/5861d28f124b35723e00005e) [``go to solution``](javascript/kyu_8/will-you-make-it.js) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Transportation on vacation ``  
     [``go to description``](https://www.codewars.com/kata/568d0dd208ee69389d000016) [``go to solution``](javascript/kyu_8/transportation-on-vacation.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Lottery Ticket``  
+    [``go to description``](https://www.codewars.com/kata/57f625992f4d53c24200070e) [``go to solution``](javascript/kyu_6/lottery-ticket.js) 
 
