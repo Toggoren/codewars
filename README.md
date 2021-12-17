@@ -232,4 +232,6 @@
     [``go to description``](https://www.codewars.com/kata/568d0dd208ee69389d000016) [``go to solution``](javascript/kyu_8/transportation-on-vacation.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Lottery Ticket``  
     [``go to description``](https://www.codewars.com/kata/57f625992f4d53c24200070e) [``go to solution``](javascript/kyu_6/lottery-ticket.js) 
+* rank: ````8 kyu```` language: ``JavaScript`` task name: ``Third Angle of a Triangle``  
+    [``go to description``](https://www.codewars.com/kata/5a023c426975981341000014) [``go to solution``](javascript/kyu_8/third-angle-of-a-triangle.js) 
 
