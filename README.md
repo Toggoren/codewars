@@ -240,4 +240,6 @@
     [``go to description``](https://www.codewars.com/kata/52b757663a95b11b3d00062d) [``go to solution``](javascript/kyu_6/weird-string-case.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Base Conversion``  
     [``go to description``](https://www.codewars.com/kata/526a569ca578d7e6e300034e) [``go to solution``](javascript/kyu_6/base-conversion.js) 
+* rank: ````4 kyu```` language: ``JavaScript`` task name: ``Human readable duration format``  
+    [``go to description``](https://www.codewars.com/kata/52742f58faf5485cae000b9a) [``go to solution``](javascript/kyu_4/human-readable-duration-format.js) 
 
