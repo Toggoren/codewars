@@ -262,4 +262,6 @@
     [``go to description``](https://www.codewars.com/kata/57f7796697d62fc93d0001b8) [``go to solution``](php/kyu_7/double-trouble.php) 
 * rank: ````7 kyu```` language: ``PHP`` task name: ``A Rule of Divisibility by 7``  
     [``go to description``](https://www.codewars.com/kata/55e6f5e58f7817808e00002e) [``go to solution``](php/kyu_7/a-rule-of-divisibility-by-7.php) 
+* rank: ````7 kyu```` language: ``PHP`` task name: ``Scaling Squared Strings``  
+    [``go to description``](https://www.codewars.com/kata/56ed20a2c4e5d69155000301) [``go to solution``](php/kyu_7/scaling-squared-strings.php) 
 
