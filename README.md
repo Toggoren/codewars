@@ -244,4 +244,6 @@
     [``go to description``](https://www.codewars.com/kata/52742f58faf5485cae000b9a) [``go to solution``](javascript/kyu_4/human-readable-duration-format.js) 
 * rank: ````4 kyu```` language: ``JavaScript`` task name: ``Range Extraction``  
     [``go to description``](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) [``go to solution``](javascript/kyu_4/range-extraction.js) 
+* rank: ````8 kyu```` language: ``PHP`` task name: ``Beginner Series #1 School Paperwork``  
+    [``go to description``](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd) [``go to solution``](php/kyu_8/beginner-series-number-1-school-paperwork.php) 
 
