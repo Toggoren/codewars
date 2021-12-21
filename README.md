@@ -250,4 +250,6 @@
     [``go to description``](https://www.codewars.com/kata/567501aec64b81e252000003) [``go to solution``](php/kyu_7/easy-wallpaper.php) 
 * rank: ````7 kyu```` language: ``PHP`` task name: ``Char Code Calculation``  
     [``go to description``](https://www.codewars.com/kata/57f75cc397d62fc93d000059) [``go to solution``](php/kyu_7/char-code-calculation.php) 
+* rank: ````7 kyu```` language: ``PHP`` task name: ``Bumps in the Road``  
+    [``go to description``](https://www.codewars.com/kata/57ed30dde7728215300005fa) [``go to solution``](php/kyu_7/bumps-in-the-road.php) 
 
