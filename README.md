@@ -252,4 +252,6 @@
     [``go to description``](https://www.codewars.com/kata/57f75cc397d62fc93d000059) [``go to solution``](php/kyu_7/char-code-calculation.php) 
 * rank: ````7 kyu```` language: ``PHP`` task name: ``Bumps in the Road``  
     [``go to description``](https://www.codewars.com/kata/57ed30dde7728215300005fa) [``go to solution``](php/kyu_7/bumps-in-the-road.php) 
+* rank: ````7 kyu```` language: ``PHP`` task name: ``Ones and Zeros``  
+    [``go to description``](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) [``go to solution``](php/kyu_7/ones-and-zeros.php) 
 
