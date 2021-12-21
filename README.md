@@ -242,4 +242,6 @@
     [``go to description``](https://www.codewars.com/kata/526a569ca578d7e6e300034e) [``go to solution``](javascript/kyu_6/base-conversion.js) 
 * rank: ````4 kyu```` language: ``JavaScript`` task name: ``Human readable duration format``  
     [``go to description``](https://www.codewars.com/kata/52742f58faf5485cae000b9a) [``go to solution``](javascript/kyu_4/human-readable-duration-format.js) 
+* rank: ````4 kyu```` language: ``JavaScript`` task name: ``Range Extraction``  
+    [``go to description``](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) [``go to solution``](javascript/kyu_4/range-extraction.js) 
 
