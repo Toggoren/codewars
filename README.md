@@ -256,4 +256,6 @@
     [``go to description``](https://www.codewars.com/kata/578553c3a1b8d5c40300037c) [``go to solution``](php/kyu_7/ones-and-zeros.php) 
 * rank: ````7 kyu```` language: ``PHP`` task name: ``Moves in squared strings (I)``  
     [``go to description``](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25) [``go to solution``](php/kyu_7/moves-in-squared-strings-i.php) 
+* rank: ````7 kyu```` language: ``PHP`` task name: ``Driving School Series #2``  
+    [``go to description``](https://www.codewars.com/kata/589b1c15081bcbfe6700017a) [``go to solution``](php/kyu_7/driving-school-series-number-2.php) 
 
