@@ -248,4 +248,6 @@
     [``go to description``](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd) [``go to solution``](php/kyu_8/beginner-series-number-1-school-paperwork.php) 
 * rank: ````7 kyu```` language: ``PHP`` task name: ``Easy wallpaper``  
     [``go to description``](https://www.codewars.com/kata/567501aec64b81e252000003) [``go to solution``](php/kyu_7/easy-wallpaper.php) 
+* rank: ````7 kyu```` language: ``PHP`` task name: ``Char Code Calculation``  
+    [``go to description``](https://www.codewars.com/kata/57f75cc397d62fc93d000059) [``go to solution``](php/kyu_7/char-code-calculation.php) 
 
