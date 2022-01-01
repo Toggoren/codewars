@@ -266,4 +266,6 @@
     [``go to description``](https://www.codewars.com/kata/56ed20a2c4e5d69155000301) [``go to solution``](php/kyu_7/scaling-squared-strings.php) 
 * rank: ````7 kyu```` language: ``PHP`` task name: ``Maximum Product ``  
     [``go to description``](https://www.codewars.com/kata/5a4138acf28b82aa43000117) [``go to solution``](php/kyu_7/maximum-product.php) 
+* rank: ````8 kyu```` language: ``PHP`` task name: ``Rock Paper Scissors!``  
+    [``go to description``](https://www.codewars.com/kata/5672a98bdbdd995fad00000f) [``go to solution``](php/kyu_8/rock-paper-scissors.php) 
 
