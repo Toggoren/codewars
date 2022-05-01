@@ -312,4 +312,6 @@
     [``go to description``](https://www.codewars.com/kata/539de388a540db7fec000642) [``go to solution``](javascript/kyu_7/the-coupon-code.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Filter the number``  
     [``go to description``](https://www.codewars.com/kata/55b051fac50a3292a9000025) [``go to solution``](javascript/kyu_7/filter-the-number.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Anagram Detection``  
+    [``go to description``](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) [``go to solution``](javascript/kyu_7/anagram-detection.js) 
 
