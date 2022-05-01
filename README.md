@@ -280,4 +280,6 @@
     [``go to description``](https://www.codewars.com/kata/5574835e3e404a0bed00001b) [``go to solution``](javascript/kyu_6/handshake-problem.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Duplicate Encoder``  
     [``go to description``](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) [``go to solution``](javascript/kyu_6/duplicate-encoder.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``N-th Fibonacci``  
+    [``go to description``](https://www.codewars.com/kata/522551eee9abb932420004a0) [``go to solution``](javascript/kyu_6/n-th-fibonacci.js) 
 
