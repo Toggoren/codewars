@@ -328,4 +328,6 @@
     [``go to description``](https://www.codewars.com/kata/58235a167a8cb37e1a0000db) [``go to solution``](javascript/kyu_6/pair-of-gloves.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Let's Recycle!``  
     [``go to description``](https://www.codewars.com/kata/5b6db1acb118141f6b000060) [``go to solution``](javascript/kyu_6/lets-recycle.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Javascript Mathematician``  
+    [``go to description``](https://www.codewars.com/kata/55c211cce1ef691d9b000061) [``go to solution``](javascript/kyu_7/javascript-mathematician.js) 
 
