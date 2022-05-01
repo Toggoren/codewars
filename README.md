@@ -320,4 +320,6 @@
     [``go to description``](https://www.codewars.com/kata/5b16490986b6d336c900007d) [``go to solution``](javascript/kyu_7/my-language-skills.js) 
 * rank: ````5 kyu```` language: ``JavaScript`` task name: ``Function Cache``  
     [``go to description``](https://www.codewars.com/kata/525481903700c1a1ff0000e1) [``go to solution``](javascript/kyu_5/function-cache.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Closures and Scopes``  
+    [``go to description``](https://www.codewars.com/kata/526ec46d6f5e255e150002d1) [``go to solution``](javascript/kyu_6/closures-and-scopes.js) 
 
