@@ -326,4 +326,6 @@
     [``go to description``](https://www.codewars.com/kata/56eb0be52caf798c630013c0) [``go to solution``](javascript/kyu_7/unlucky-days.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Pair of gloves``  
     [``go to description``](https://www.codewars.com/kata/58235a167a8cb37e1a0000db) [``go to solution``](javascript/kyu_6/pair-of-gloves.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Let's Recycle!``  
+    [``go to description``](https://www.codewars.com/kata/5b6db1acb118141f6b000060) [``go to solution``](javascript/kyu_6/lets-recycle.js) 
 
