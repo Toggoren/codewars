@@ -272,4 +272,6 @@
     [``go to description``](https://www.codewars.com/kata/554b4ac871d6813a03000035) [``go to solution``](javascript/kyu_7/highest-and-lowest.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Disemvowel Trolls``  
     [``go to description``](https://www.codewars.com/kata/52fba66badcd10859f00097e) [``go to solution``](javascript/kyu_7/disemvowel-trolls.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Isograms``  
+    [``go to description``](https://www.codewars.com/kata/54ba84be607a92aa900000f1) [``go to solution``](javascript/kyu_7/isograms.js) 
 
