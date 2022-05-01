@@ -324,4 +324,6 @@
     [``go to description``](https://www.codewars.com/kata/526ec46d6f5e255e150002d1) [``go to solution``](javascript/kyu_6/closures-and-scopes.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Unlucky Days``  
     [``go to description``](https://www.codewars.com/kata/56eb0be52caf798c630013c0) [``go to solution``](javascript/kyu_7/unlucky-days.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Pair of gloves``  
+    [``go to description``](https://www.codewars.com/kata/58235a167a8cb37e1a0000db) [``go to solution``](javascript/kyu_6/pair-of-gloves.js) 
 
