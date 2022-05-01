@@ -300,4 +300,6 @@
     [``go to description``](https://www.codewars.com/kata/5a9ecd89fd5777e0790001ea) [``go to solution``](javascript/kyu_6/santa-wish-list-form-in-reactjs.jsx) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Sorting by bits``  
     [``go to description``](https://www.codewars.com/kata/59fa8e2646d8433ee200003f) [``go to solution``](javascript/kyu_6/sorting-by-bits.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Cat and Mouse - 2D Version``  
+    [``go to description``](https://www.codewars.com/kata/57f8842367c96a89dc00018e) [``go to solution``](javascript/kyu_7/cat-and-mouse-2d-version.js) 
 
