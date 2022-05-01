@@ -298,4 +298,6 @@
     [``go to description``](https://www.codewars.com/kata/5f266f1f0dc7f30033d7b01d) [``go to solution``](javascript/beta/counter-react.jsx) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Santa wish list form in ReactJS``  
     [``go to description``](https://www.codewars.com/kata/5a9ecd89fd5777e0790001ea) [``go to solution``](javascript/kyu_6/santa-wish-list-form-in-reactjs.jsx) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Sorting by bits``  
+    [``go to description``](https://www.codewars.com/kata/59fa8e2646d8433ee200003f) [``go to solution``](javascript/kyu_6/sorting-by-bits.js) 
 
