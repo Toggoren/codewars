@@ -314,4 +314,6 @@
     [``go to description``](https://www.codewars.com/kata/55b051fac50a3292a9000025) [``go to solution``](javascript/kyu_7/filter-the-number.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Anagram Detection``  
     [``go to description``](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) [``go to solution``](javascript/kyu_7/anagram-detection.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Run-length encoding``  
+    [``go to description``](https://www.codewars.com/kata/546dba39fa8da224e8000467) [``go to solution``](javascript/kyu_6/run-length-encoding.js) 
 
