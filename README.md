@@ -270,4 +270,6 @@
     [``go to description``](https://www.codewars.com/kata/5672a98bdbdd995fad00000f) [``go to solution``](php/kyu_8/rock-paper-scissors.php) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Highest and Lowest``  
     [``go to description``](https://www.codewars.com/kata/554b4ac871d6813a03000035) [``go to solution``](javascript/kyu_7/highest-and-lowest.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Disemvowel Trolls``  
+    [``go to description``](https://www.codewars.com/kata/52fba66badcd10859f00097e) [``go to solution``](javascript/kyu_7/disemvowel-trolls.js) 
 
