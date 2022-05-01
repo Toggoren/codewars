@@ -310,4 +310,6 @@
     [``go to description``](https://www.codewars.com/kata/5351b35ebaeb67f9110012d2) [``go to solution``](javascript/kyu_6/can-you-keep-a-secret.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``The Coupon Code``  
     [``go to description``](https://www.codewars.com/kata/539de388a540db7fec000642) [``go to solution``](javascript/kyu_7/the-coupon-code.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Filter the number``  
+    [``go to description``](https://www.codewars.com/kata/55b051fac50a3292a9000025) [``go to solution``](javascript/kyu_7/filter-the-number.js) 
 
