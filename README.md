@@ -291,7 +291,7 @@
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Length of missing array``  
     [``go to description``](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611) [``go to solution``](javascript/kyu_6/length-of-missing-array.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Easter egg list in ReactJS``  
-    [``go to description``](https://www.codewars.com/kata/5a95947f4a6b342636000173) [``go to solution``](javascript/kyu_6/easter-egg-list-in-reactjs.js) 
+    [``go to description``](https://www.codewars.com/kata/5a95947f4a6b342636000173) [``go to solution``](javascript/kyu_6/easter-egg-list-in-reactjs.jsx) 
 * rank: ````5 kyu```` language: ``JavaScript`` task name: ``Moving Zeros To The End``  
     [``go to description``](https://www.codewars.com/kata/52597aa56021e91c93000cb0) [``go to solution``](javascript/kyu_5/moving-zeros-to-the-end.js) 
 * rank: ````beta```` language: ``JavaScript`` task name: ``Counter (React)``  
