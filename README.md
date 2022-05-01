@@ -294,4 +294,6 @@
     [``go to description``](https://www.codewars.com/kata/5a95947f4a6b342636000173) [``go to solution``](javascript/kyu_6/easter-egg-list-in-reactjs.js) 
 * rank: ````5 kyu```` language: ``JavaScript`` task name: ``Moving Zeros To The End``  
     [``go to description``](https://www.codewars.com/kata/52597aa56021e91c93000cb0) [``go to solution``](javascript/kyu_5/moving-zeros-to-the-end.js) 
+* rank: ````beta```` language: ``JavaScript`` task name: ``Counter (React)``  
+    [``go to description``](https://www.codewars.com/kata/5f266f1f0dc7f30033d7b01d) [``go to solution``](javascript/beta/counter-react.jsx) 
 
