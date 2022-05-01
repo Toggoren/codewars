@@ -282,4 +282,6 @@
     [``go to description``](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) [``go to solution``](javascript/kyu_6/duplicate-encoder.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``N-th Fibonacci``  
     [``go to description``](https://www.codewars.com/kata/522551eee9abb932420004a0) [``go to solution``](javascript/kyu_6/n-th-fibonacci.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Multiples of 3 or 5``  
+    [``go to description``](https://www.codewars.com/kata/514b92a657cdc65150000006) [``go to solution``](javascript/kyu_6/multiples-of-3-or-5.js) 
 
