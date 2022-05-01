@@ -284,4 +284,6 @@
     [``go to description``](https://www.codewars.com/kata/522551eee9abb932420004a0) [``go to solution``](javascript/kyu_6/n-th-fibonacci.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Multiples of 3 or 5``  
     [``go to description``](https://www.codewars.com/kata/514b92a657cdc65150000006) [``go to solution``](javascript/kyu_6/multiples-of-3-or-5.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Head, Tail, Init and Last``  
+    [``go to description``](https://www.codewars.com/kata/54592a5052756d5c5d0009c3) [``go to solution``](javascript/kyu_7/head-tail-init-and-last.js) 
 
