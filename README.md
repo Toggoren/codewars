@@ -290,4 +290,6 @@
     [``go to description``](https://www.codewars.com/kata/596f72bbe7cd7296d1000029) [``go to solution``](javascript/kyu_6/array-deep-count.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Length of missing array``  
     [``go to description``](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611) [``go to solution``](javascript/kyu_6/length-of-missing-array.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Easter egg list in ReactJS``  
+    [``go to description``](https://www.codewars.com/kata/5a95947f4a6b342636000173) [``go to solution``](javascript/kyu_6/easter-egg-list-in-reactjs.js) 
 
