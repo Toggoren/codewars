@@ -306,4 +306,6 @@
     [``go to description``](https://www.codewars.com/kata/567ed5db4089538eea000010) [``go to solution``](javascript/kyu_6/nuclear-missile-manager.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Char Code Calculation``  
     [``go to description``](https://www.codewars.com/kata/57f75cc397d62fc93d000059) [``go to solution``](javascript/kyu_7/char-code-calculation.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Can you keep a secret?``  
+    [``go to description``](https://www.codewars.com/kata/5351b35ebaeb67f9110012d2) [``go to solution``](javascript/kyu_6/can-you-keep-a-secret.js) 
 
