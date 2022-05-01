@@ -296,4 +296,6 @@
     [``go to description``](https://www.codewars.com/kata/52597aa56021e91c93000cb0) [``go to solution``](javascript/kyu_5/moving-zeros-to-the-end.js) 
 * rank: ````beta```` language: ``JavaScript`` task name: ``Counter (React)``  
     [``go to description``](https://www.codewars.com/kata/5f266f1f0dc7f30033d7b01d) [``go to solution``](javascript/beta/counter-react.jsx) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Santa wish list form in ReactJS``  
+    [``go to description``](https://www.codewars.com/kata/5a9ecd89fd5777e0790001ea) [``go to solution``](javascript/kyu_6/santa-wish-list-form-in-reactjs.jsx) 
 
