@@ -276,4 +276,6 @@
     [``go to description``](https://www.codewars.com/kata/54ba84be607a92aa900000f1) [``go to solution``](javascript/kyu_7/isograms.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Digits explosion``  
     [``go to description``](https://www.codewars.com/kata/585b1fafe08bae9988000314) [``go to solution``](javascript/kyu_7/digits-explosion.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Handshake problem``  
+    [``go to description``](https://www.codewars.com/kata/5574835e3e404a0bed00001b) [``go to solution``](javascript/kyu_6/handshake-problem.js) 
 
