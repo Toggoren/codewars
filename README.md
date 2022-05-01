@@ -304,4 +304,6 @@
     [``go to description``](https://www.codewars.com/kata/57f8842367c96a89dc00018e) [``go to solution``](javascript/kyu_7/cat-and-mouse-2d-version.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Nuclear Missile Manager``  
     [``go to description``](https://www.codewars.com/kata/567ed5db4089538eea000010) [``go to solution``](javascript/kyu_6/nuclear-missile-manager.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Char Code Calculation``  
+    [``go to description``](https://www.codewars.com/kata/57f75cc397d62fc93d000059) [``go to solution``](javascript/kyu_7/char-code-calculation.js) 
 
