@@ -316,4 +316,6 @@
     [``go to description``](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) [``go to solution``](javascript/kyu_7/anagram-detection.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Run-length encoding``  
     [``go to description``](https://www.codewars.com/kata/546dba39fa8da224e8000467) [``go to solution``](javascript/kyu_6/run-length-encoding.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``My Language Skills``  
+    [``go to description``](https://www.codewars.com/kata/5b16490986b6d336c900007d) [``go to solution``](javascript/kyu_7/my-language-skills.js) 
 
