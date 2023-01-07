@@ -330,4 +330,6 @@
     [``go to description``](https://www.codewars.com/kata/5b6db1acb118141f6b000060) [``go to solution``](javascript/kyu_6/lets-recycle.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Javascript Mathematician``  
     [``go to description``](https://www.codewars.com/kata/55c211cce1ef691d9b000061) [``go to solution``](javascript/kyu_7/javascript-mathematician.js) 
+* rank: ````6 kyu```` language: ``CoffeeScript`` task name: ``RoboScript #1 - Implement Syntax Highlighting``  
+    [``go to description``](https://www.codewars.com/kata/58708934a44cfccca60000c4) [``go to solution``](coffeescript\kyu_6\roboscript-number-1-implement-syntax-highlighting.coffee) 
 
