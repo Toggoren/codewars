@@ -334,4 +334,6 @@
     [``go to description``](https://www.codewars.com/kata/58708934a44cfccca60000c4) [``go to solution``](coffeescript\kyu_6\roboscript-number-1-implement-syntax-highlighting.coffee) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Quarter of the year``  
     [``go to description``](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) [``go to solution``](javascript\kyu_8\quarter-of-the-year.js) 
+* rank: ````7 kyu```` language: ``JavaScript`` task name: ``Whose bicycle?``  
+    [``go to description``](https://www.codewars.com/kata/5a2cb4bff28b820c33000082) [``go to solution``](javascript\kyu_7\whose-bicycle.js) 
 
