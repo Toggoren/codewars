@@ -340,4 +340,6 @@
     [``go to description``](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) [``go to solution``](javascript\kyu_7\minimize-sum-of-array-array-series-number-1.js) 
 * rank: ````3 kyu```` language: ``JavaScript`` task name: ``Make a spiral``  
     [``go to description``](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) [``go to solution``](javascript\kyu_3\make-a-spiral.js) 
+* rank: ````6 kyu```` language: ``JavaScript`` task name: ``Clocky Mc Clock-Face``  
+    [``go to description``](https://www.codewars.com/kata/59752e1f064d1261cb0000ec) [``go to solution``](javascript\kyu_6\clocky-mc-clock-face.js) 
 
