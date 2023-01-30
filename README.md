@@ -338,4 +338,6 @@
     [``go to description``](https://www.codewars.com/kata/5a2cb4bff28b820c33000082) [``go to solution``](javascript\kyu_7\whose-bicycle.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Minimize  Sum Of Array (Array Series #1)   ``  
     [``go to description``](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) [``go to solution``](javascript\kyu_7\minimize-sum-of-array-array-series-number-1.js) 
+* rank: ````3 kyu```` language: ``JavaScript`` task name: ``Make a spiral``  
+    [``go to description``](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) [``go to solution``](javascript\kyu_3\make-a-spiral.js) 
 
