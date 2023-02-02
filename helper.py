@@ -288,7 +288,7 @@ def main():
 
     rank_fmt = f'``{rank} kyu``' if rank != 'beta' else rank
     language = language_str2language_pretty_str[language_str]
-    rel_path = pathlib.Path(*filename.parts[len(pathlib.Path.cwd().parts):])
+    rel_path = f'{pathlib.Path(*filename.parts[len(pathlib.Path.cwd().parts):])}'.replace('\\', '/')
     new_part = f'* rank: ``{rank_fmt}`` language: ``{language}`` task name: ``{name}``  \n' \
                f'    [``go to description``]({url}) [``go to solution``]({rel_path}) \n'
 

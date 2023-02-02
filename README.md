@@ -331,15 +331,15 @@
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Javascript Mathematician``  
     [``go to description``](https://www.codewars.com/kata/55c211cce1ef691d9b000061) [``go to solution``](javascript/kyu_7/javascript-mathematician.js) 
 * rank: ````6 kyu```` language: ``CoffeeScript`` task name: ``RoboScript #1 - Implement Syntax Highlighting``  
-    [``go to description``](https://www.codewars.com/kata/58708934a44cfccca60000c4) [``go to solution``](coffeescript\kyu_6\roboscript-number-1-implement-syntax-highlighting.coffee) 
+    [``go to description``](https://www.codewars.com/kata/58708934a44cfccca60000c4) [``go to solution``](coffeescript/kyu_6/roboscript-number-1-implement-syntax-highlighting.coffee) 
 * rank: ````8 kyu```` language: ``JavaScript`` task name: ``Quarter of the year``  
-    [``go to description``](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) [``go to solution``](javascript\kyu_8\quarter-of-the-year.js) 
+    [``go to description``](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) [``go to solution``](javascript/kyu_8/quarter-of-the-year.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Whose bicycle?``  
-    [``go to description``](https://www.codewars.com/kata/5a2cb4bff28b820c33000082) [``go to solution``](javascript\kyu_7\whose-bicycle.js) 
+    [``go to description``](https://www.codewars.com/kata/5a2cb4bff28b820c33000082) [``go to solution``](javascript/kyu_7/whose-bicycle.js) 
 * rank: ````7 kyu```` language: ``JavaScript`` task name: ``Minimize  Sum Of Array (Array Series #1)   ``  
-    [``go to description``](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) [``go to solution``](javascript\kyu_7\minimize-sum-of-array-array-series-number-1.js) 
+    [``go to description``](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) [``go to solution``](javascript/kyu_7/minimize-sum-of-array-array-series-number-1.js) 
 * rank: ````3 kyu```` language: ``JavaScript`` task name: ``Make a spiral``  
-    [``go to description``](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) [``go to solution``](javascript\kyu_3\make-a-spiral.js) 
+    [``go to description``](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) [``go to solution``](javascript/kyu_3/make-a-spiral.js) 
 * rank: ````6 kyu```` language: ``JavaScript`` task name: ``Clocky Mc Clock-Face``  
-    [``go to description``](https://www.codewars.com/kata/59752e1f064d1261cb0000ec) [``go to solution``](javascript\kyu_6\clocky-mc-clock-face.js) 
+    [``go to description``](https://www.codewars.com/kata/59752e1f064d1261cb0000ec) [``go to solution``](javascript/kyu_6/clocky-mc-clock-face.js) 
 
